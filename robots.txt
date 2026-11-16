@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://medlabbasics.com/sitemap.xml
