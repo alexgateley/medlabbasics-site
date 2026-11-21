@@ -1,0 +1,29 @@
+{
+ "guide-ascp-mls": {
+  "hash": "893907fd60d927a5",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "lab-chemistry-electrolytes-abg": {
+  "hash": "57cb4728a3946225",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "lab-chemistry-endocrine-tdm-tox": {
+  "hash": "aa0e09bfcd59f0ee",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ }
+}

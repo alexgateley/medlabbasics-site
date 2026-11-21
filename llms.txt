@@ -1,0 +1,49 @@
+# MedLab Basics
+
+> MedLab Basics is a free exam-prep app from Grip Theory LLC for the ASCP MLS and ASCP MLT, with 600 practice questions, a rationale for every answer choice, and mock exams built to the official test plans.
+
+- Publisher: Grip Theory LLC
+- Price: free today, with no account and no ads. A paid plan, Pro, starts in January 2027; the question of the day, the daily plan, the Reference and one mock exam stay free.
+- Platforms: Android (Google Play) and any web browser; the iPhone app is coming
+- Practice questions: 600, each with a rationale for every answer choice
+
+## Exams
+- ASCP MLS: 600 practice questions. Exam guide: https://medlabbasics.com/sheets/guide-ascp-mls.html. Sample questions: https://medlabbasics.com/practice/mls.html
+- ASCP MLT: 507 practice questions. Exam guide: https://medlabbasics.com/sheets/guide-ascp-mlt.html. Sample questions: https://medlabbasics.com/practice/mlt.html
+
+## Main pages
+- [Home](https://medlabbasics.com/): what the app covers
+- [Web app](https://medlabbasics.com/app/): the full question bank, free in any browser
+- [Sample questions](https://medlabbasics.com/practice/): questions with answers and rationales
+- [Cheat Sheets and exam guides](https://medlabbasics.com/sheets/): study summaries with sources
+- [Reference](https://medlabbasics.com/reference/): every calculator and lab group on its own page
+
+## Cheat Sheets
+- [ABO, H and Rh Typing](https://medlabbasics.com/sheets/lab-abo-rh.html)
+- [Antibody Screen and Identification](https://medlabbasics.com/sheets/lab-antibody-id.html)
+- [Compatibility Testing and Blood Components](https://medlabbasics.com/sheets/lab-compatibility-components.html)
+- [Transfusion Reactions and HDFN](https://medlabbasics.com/sheets/lab-transfusion-reactions.html)
+- [Red Cell Morphology and the Anemias](https://medlabbasics.com/sheets/lab-rbc-morphology.html)
+- [CBC, Analyzers and Spurious Results](https://medlabbasics.com/sheets/lab-cbc-analyzers.html)
+- [White Cells, Leukemia and Lymphoma](https://medlabbasics.com/sheets/lab-wbc-leukemia.html)
+- [Hemostasis and Coagulation Testing](https://medlabbasics.com/sheets/lab-coagulation.html)
+- [Clinical Chemistry: Analytes and Disease Patterns](https://medlabbasics.com/sheets/lab-chemistry-analytes.html)
+- [Electrolytes, Acid-Base and Blood Gases](https://medlabbasics.com/sheets/lab-chemistry-electrolytes-abg.html)
+- [Endocrinology, Drug Monitoring and Toxicology](https://medlabbasics.com/sheets/lab-chemistry-endocrine-tdm-tox.html)
+- [Chemistry Methods and Instrumentation](https://medlabbasics.com/sheets/lab-chemistry-methods.html)
+- [Reference Ranges the Exam Uses](https://medlabbasics.com/sheets/lab-reference-intervals.html)
+- [Gram Stain and Bacterial Identification](https://medlabbasics.com/sheets/lab-micro-gram-id.html)
+- [Specimens, Cultures and Susceptibility Testing](https://medlabbasics.com/sheets/lab-micro-specimens-ast.html)
+- [Mycobacteria, Fungi, Parasites and Viruses](https://medlabbasics.com/sheets/lab-micro-myco-fungi-parasites-virology.html)
+- [Urinalysis](https://medlabbasics.com/sheets/lab-urinalysis.html)
+- [Body Fluids](https://medlabbasics.com/sheets/lab-body-fluids.html)
+- [Immunology and Serology](https://medlabbasics.com/sheets/lab-immunology-serology.html)
+- [Quality Control, Validation and Regulation](https://medlabbasics.com/sheets/lab-qc-quality.html)
+- [Laboratory Safety and Biosafety](https://medlabbasics.com/sheets/lab-safety.html)
+- [Laboratory Mathematics](https://medlabbasics.com/sheets/lab-math.html)
+- [ASCP MLS Exam Guide](https://medlabbasics.com/sheets/guide-ascp-mls.html)
+- [ASCP MLT Exam Guide](https://medlabbasics.com/sheets/guide-ascp-mlt.html)
+
+## Reference
+- [Calculators](https://medlabbasics.com/calculators/): 27 pages. Working calculators with the formula and how to read the result
+- [Lab values](https://medlabbasics.com/labs/): 8 pages. Reference ranges in US and SI units
